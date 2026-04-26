@@ -16,7 +16,7 @@ This project implements a multi-tab browser using PyQt6. The application allows 
 ## Installation
 To install the required libraries, use the following command:
 ```
-pip install PyQt6
+pip install PyQt6 PyQt6-WebEngine
 ```
 
 ## Usage
