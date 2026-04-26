@@ -22,7 +22,7 @@ pip install PyQt6 PyQt6-WebEngine
 ## Usage
 Run the application using:
 ```
-python main.py
+python3 main.py
 ```
 
 ## License
